@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TalHayun
 - 👀 I’m interested in analysis data sets.
 - 🌱 I’m currently learning Data Science and Engineering.
-- 📫 Reach me on my linkdin profile : https://www.linkedin.com/in/tal-hayun-a99aa71a7//.
+- 📫 Reach me on my linkdin profile : https://www.linkedin.com/in/tal-hayun.
 
 <!---
 TalHayun/TalHayun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
